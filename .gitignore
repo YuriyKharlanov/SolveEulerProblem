@@ -1,0 +1,43 @@
+nb-configuration.xml
+nbactions-dev.xml
+nbactions.xml
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+nb_jr_remoting.cfg
+rebel.xml
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+### VS Code ###
+.vscode/
+/src/main/java/ru/cik/autonomous_arm_ppz/tests/
+/src/main/resources/db/
+/resources/
+/arm/src/main/resources/lib/
+/resources/
+/arm/resources/
+/arm/nbproject/
+/nbproject/
